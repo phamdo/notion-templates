@@ -1,0 +1,9 @@
+[Notion]
+token = <token_v2 value>
+database_url = <url of Notion database>
+
+[Maps]
+key = <Google Maps API key>
+num_results = <number of results to return>
+query = Boston
+
